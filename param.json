@@ -1,0 +1,7 @@
+{
+    "cut_area_rate"        :0.001,
+    "sudoku_area_margin"   :0.01,
+    "cell_min_size_reta"   :0.009,
+    "cell_max_size_rate"   :0.014,
+    "cell_threshold_value" :80
+}
